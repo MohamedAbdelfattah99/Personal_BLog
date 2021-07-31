@@ -1,4 +1,4 @@
-simple blog laravel weebsite that user can :
+simple blog laravel website that user can :
 sign-up/login 
 upload -edit -delete posts .
 posts can have more than on category.
