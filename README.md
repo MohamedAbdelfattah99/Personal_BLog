@@ -1,2 +1,5 @@
-A commercial site for tracking products from the factory, stores and customers by RIFD ,GPS .
-API For mobile app
+simple blog laravel weebsite that user can :
+sign-up/login 
+upload -edit -delete posts .
+posts can have more than on category.
+apply authintcaion on users.
